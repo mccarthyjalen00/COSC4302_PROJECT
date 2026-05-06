@@ -33,5 +33,5 @@ gcc -o shell_thread mini_shell_pthread.c -lpthread
 
 ExecutionRun either version by launching the generated executable
 ./shell_fork
-# OR
+or
 ./shell_thread
